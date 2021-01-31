@@ -1,0 +1,25 @@
+body {
+  background-color: #0f0f0f;
+  background-size: 100% 100%;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 10pt;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+canvas {
+  background-position: bottom;
+}
+
+.chart-container {
+  margin: auto;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/de/Blank_map_political_world_territories.png");
+  background-position: center;
+  position: relative;
+  width: 1457px;
+  height: 728px;
+}
