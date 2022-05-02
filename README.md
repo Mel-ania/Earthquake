@@ -1,1 +1,1 @@
-# Eartquake
+# Earthquake
